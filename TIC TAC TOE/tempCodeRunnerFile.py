@@ -1,0 +1,2 @@
+
+        self.player=2
